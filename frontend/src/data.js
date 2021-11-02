@@ -1,0 +1,62 @@
+const data = {
+    products: [
+        {
+            _id: '1',
+            name: 'Jeans Shirt Ivy Park',
+            category: 'Shirt',
+            image: '/images/p1.jpg',
+            price: 120,
+            brand: 'RODEO',
+            rating: 4.5,
+            numReviews: 10,
+            description: 'high quality product',
+        },
+        {
+            _id: '2',
+            name: 'Jeans Pants Ivy Park',
+            category: 'Pants',
+            image: '/images/p2.jpg',
+            price: 120,
+            brand: 'RODEO',
+            rating: 4.5,
+            numReviews: 10,
+            description: 'high quality product',
+        },
+        {
+            _id: '3',
+            name: 'Jeans Shirt Ivy Park',
+            category: 'Shirt',
+            image: '/images/p1.jpg',
+            price: 120,
+            brand: 'RODEO',
+            rating: 4.0,
+            numReviews: 10,
+            description: 'high quality product',
+        },
+        {
+            _id: '4',
+            name: 'Jeans Shirt Ivy Park',
+            category: 'Shirt',
+            image: '/images/p1.jpg',
+            price: 120,
+            brand: 'RODEO',
+            rating: 4.5,
+            numReviews: 10,
+            description: 'high quality product',
+        },
+        {
+            _id: '5',
+            name: 'Jeans Shirt Ivy Park',
+            category: 'Shirt',
+            image: '/images/p1.jpg',
+            price: 120,
+            brand: 'RODEO',
+            rating: 4.5,
+            numReviews: 10,
+            description: 'high quality product',
+        },
+    ],
+};
+
+export default data
+
